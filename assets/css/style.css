@@ -96,7 +96,7 @@ a {
 }
 .navbar-nav .nav-link {
   color: #262626;
-  font-size: 22px;
+  font-size: 21px;
 }
 .navbar-nav .nav-link.active {
   color: var( --primary);
@@ -178,6 +178,15 @@ a {
   outline: none;
   box-shadow: none;
   border: none;
+}
+
+
+#datepicker {
+  padding: 2px 15px !important;
+}
+#datepicker::placeholder {
+  font-size: 14px !important;
+  font-style: italic !important;
 }
 
 .booking-container {
