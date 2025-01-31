@@ -35,4 +35,7 @@ $('.custom-prev').click(function() {
   owl.trigger('prev.owl.carousel');
 });
 
+
+$('#datepicker').datepicker();
+
 });
