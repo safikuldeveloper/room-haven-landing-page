@@ -1,3 +1,10 @@
+/**
+* Template Name: ClientPeak: Free Bootstrap 5 Business Landing Template
+* Template URL: https://www.templaterise.com/template/clientpeak-free-bootstrap-5-business-landing-template
+* Updated: January 01 2025 with Bootstrap v5.3.3
+* Author: templaterise.com
+*/
+
 $(document).ready(function(){
 
   $(".hero-carousel").owlCarousel({
